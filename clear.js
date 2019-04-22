@@ -22,6 +22,6 @@ client.on("message", message => {
 
      
 });
-     client.login('MzQyOTI2MjI1MzY0MjIxOTUy.DG6WNg.Q71rMnW2DT9Wb8iWfUoxVor-Z94')
+     client.login('Mzk2NDY3OTA2MDU5MTczODg4.XLJpSQ.j0Bz96-8xtP2Dpwq25Yel76dKlw')
 
      
